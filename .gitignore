@@ -1,0 +1,20 @@
+.DS_Store
+*.pyc
+_pycache_
+dist/
+*.egg-info
+*.egg*
+.vs*
+*.sln
+*pyproj*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+build/
+
+# Folders
+/DataApi/env
+/*.cfg
